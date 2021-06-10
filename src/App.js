@@ -28,7 +28,7 @@ function App() {
       <Route path='/Rahil' component={RahilRoad}/>
       <Route path='/Ayush' component={AyushRoad}/>
       <Route path='/Nikhil' component={NikhilRoad}/>
-      <Route path='/'  exact component={Layout}/>
+      <Route path={process.env.PUBLIC_URL}  exact component={Layout}/>
       </Switch>
       
 
