@@ -28,6 +28,10 @@ if(loading){
                  {/* <Landing/> */}
                  {/* </Rotate> */}
             </div>);}      
+        /*if the spinner has to load every time, 
+        can be fixed by passing layout to every route
+        with the corresponding road tag 
+        which can then be called over here in rotate*/
 };
 
 export default Layout;
