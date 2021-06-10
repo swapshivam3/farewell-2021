@@ -65,7 +65,7 @@ function YashRoad() {
 
 
   return (<div>
-        <Rotate/>
+        {/* <Rotate tag={<YashRoad/>}/> */}
         <BackgroundImage/>
           <div className="roadContainer">
       <div

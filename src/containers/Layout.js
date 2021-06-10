@@ -19,17 +19,15 @@ const Layout = () => {
 
 if(loading){
     return (
-            <Spinner/>
+            <Spinner/>  
         );}
         else{
     return(
             <div className="layoutDiv">
-                 <Rotate/>
-                 <Landing/>
-            </div>);}
-    
-        
-        
+                 <Rotate tag={<Landing/>}/>
+                 {/* <Landing/> */}
+                 {/* </Rotate> */}
+            </div>);}      
 };
 
 export default Layout;

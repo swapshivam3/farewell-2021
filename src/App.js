@@ -12,6 +12,7 @@ import RahilRoad from './components/Seniors/Rahil/RahilRoad'
 import NikhilRoad from './components/Seniors/Nikhil/NikhilRoad'
 import VishnupriyaRoad from './components/Seniors/Vishnupriya/VishnupriyaRoad'
 import SparshRoad from './components/Seniors/Sparsh/SparshRoad'
+import Rotate from './components/Rotate/Rotate';
 
 function App() {
   return (
@@ -24,7 +25,7 @@ function App() {
       <Route path='/Abhijeet' component={AbhijeetRoad}/>
       <Route path='/Atmadeep' component={AtmadeepRoad}/>
       <Route path='/Vishnupriya' component={VishnupriyaRoad}/>
-      <Route path='/Yash' component={YashRoad}/>
+      <Route path='/Yash' component={()=><Rotate tag={<YashRoad/>}/>}/>
       <Route path='/Rahil' component={RahilRoad}/>
       <Route path='/Ayush' component={AyushRoad}/>
       <Route path='/Nikhil' component={NikhilRoad}/>
