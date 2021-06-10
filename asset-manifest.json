@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/farewell-2021/static/css/main.b159bea5.chunk.css",
+    "main.js": "/farewell-2021/static/js/main.846f2dcd.chunk.js",
+    "main.js.map": "/farewell-2021/static/js/main.846f2dcd.chunk.js.map",
+    "runtime-main.js": "/farewell-2021/static/js/runtime-main.148f147a.js",
+    "runtime-main.js.map": "/farewell-2021/static/js/runtime-main.148f147a.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/farewell-2021/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5971ebba.chunk.js": "/farewell-2021/static/js/2.5971ebba.chunk.js",
+    "static/js/2.5971ebba.chunk.js.map": "/farewell-2021/static/js/2.5971ebba.chunk.js.map",
+    "static/js/3.cc4f1a22.chunk.js": "/farewell-2021/static/js/3.cc4f1a22.chunk.js",
+    "static/js/3.cc4f1a22.chunk.js.map": "/farewell-2021/static/js/3.cc4f1a22.chunk.js.map",
+    "index.html": "/farewell-2021/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/farewell-2021/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b159bea5.chunk.css.map": "/farewell-2021/static/css/main.b159bea5.chunk.css.map",
+    "static/js/2.5971ebba.chunk.js.LICENSE.txt": "/farewell-2021/static/js/2.5971ebba.chunk.js.LICENSE.txt",
+    "static/media/about1.64d174e4.jpg": "/farewell-2021/static/media/about1.64d174e4.jpg",
+    "static/media/Modal.css": "/farewell-2021/static/media/bg.afd6cd9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.148f147a.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5971ebba.chunk.js",
+    "static/css/main.b159bea5.chunk.css",
+    "static/js/main.846f2dcd.chunk.js"
+  ]
+}
