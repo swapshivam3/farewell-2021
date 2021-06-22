@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.05a242b6.chunk.css",
-    "main.js": "/static/js/main.0f575434.chunk.js",
-    "main.js.map": "/static/js/main.0f575434.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.abfeaab8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.abfeaab8.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6ec45bc1.chunk.js": "/static/js/2.6ec45bc1.chunk.js",
-    "static/js/2.6ec45bc1.chunk.js.map": "/static/js/2.6ec45bc1.chunk.js.map",
-    "static/js/3.525f7935.chunk.js": "/static/js/3.525f7935.chunk.js",
-    "static/js/3.525f7935.chunk.js.map": "/static/js/3.525f7935.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.05a242b6.chunk.css.map": "/static/css/main.05a242b6.chunk.css.map",
-    "static/js/2.6ec45bc1.chunk.js.LICENSE.txt": "/static/js/2.6ec45bc1.chunk.js.LICENSE.txt",
-    "static/media/about1.64d174e4.jpg": "/static/media/about1.64d174e4.jpg",
-    "static/media/Modal.css": "/static/media/bg.afd6cd9b.jpg"
+    "main.css": "/farewell-2021/static/css/main.d53ec174.chunk.css",
+    "main.js": "/farewell-2021/static/js/main.3e26da83.chunk.js",
+    "main.js.map": "/farewell-2021/static/js/main.3e26da83.chunk.js.map",
+    "runtime-main.js": "/farewell-2021/static/js/runtime-main.09ef6289.js",
+    "runtime-main.js.map": "/farewell-2021/static/js/runtime-main.09ef6289.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/farewell-2021/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6ec45bc1.chunk.js": "/farewell-2021/static/js/2.6ec45bc1.chunk.js",
+    "static/js/2.6ec45bc1.chunk.js.map": "/farewell-2021/static/js/2.6ec45bc1.chunk.js.map",
+    "static/js/3.525f7935.chunk.js": "/farewell-2021/static/js/3.525f7935.chunk.js",
+    "static/js/3.525f7935.chunk.js.map": "/farewell-2021/static/js/3.525f7935.chunk.js.map",
+    "index.html": "/farewell-2021/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/farewell-2021/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d53ec174.chunk.css.map": "/farewell-2021/static/css/main.d53ec174.chunk.css.map",
+    "static/js/2.6ec45bc1.chunk.js.LICENSE.txt": "/farewell-2021/static/js/2.6ec45bc1.chunk.js.LICENSE.txt",
+    "static/media/about1.64d174e4.jpg": "/farewell-2021/static/media/about1.64d174e4.jpg",
+    "static/media/Modal.css": "/farewell-2021/static/media/bg.afd6cd9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.abfeaab8.js",
+    "static/js/runtime-main.09ef6289.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6ec45bc1.chunk.js",
-    "static/css/main.05a242b6.chunk.css",
-    "static/js/main.0f575434.chunk.js"
+    "static/css/main.d53ec174.chunk.css",
+    "static/js/main.3e26da83.chunk.js"
   ]
 }
